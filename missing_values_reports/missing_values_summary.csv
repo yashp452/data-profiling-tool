@@ -1,0 +1,6 @@
+Sheet,Column,Total_Rows,Missing_Count,Missing_Percentage,Non_Missing_Count
+Data,Asset,117959,0,0.0,117959
+Data,Super Reason,117959,0,0.0,117959
+Hoja1,Fecha,365,0,0.0,365
+Hoja1,cant. Horas,365,0,0.0,365
+Hoja1,Minutos,365,359,98.36,6
